@@ -54,7 +54,7 @@ Just add that code into your functions.php (or an included file) and when you lo
 
 Let’s look at exactly what’s going on here…
 
-##Labels
+## Labels
 Customise these to separate posts and custom posts in the menu
 
 * name -> This is the general name of your custom post type
@@ -66,7 +66,7 @@ Customise these to separate posts and custom posts in the menu
 * not_found -> Text shown when search returns nothing
 * not_found_in_trash -> Text shown when trash search returns nothing
 
-##Arguments
+## Arguments
 The basics we need to define a custom post type
 
 * labels -> This is just they array above

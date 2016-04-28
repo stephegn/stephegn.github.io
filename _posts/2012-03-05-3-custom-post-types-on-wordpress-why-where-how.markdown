@@ -5,7 +5,7 @@ date:   2012-03-05 22:20:00 +0000
 categories: wordpress series
 ---
 
-##Customising the custom posts editor
+## Customising the custom posts editor
 
 So now you have your custom post types from here the next step is to customise it so you can start adding other values. Lets take my example of microsites, I want to associate a contact email with the post type. First we need to add the text field into our edit post page.
 

@@ -9,7 +9,7 @@ This had to be one of the things I struggled on most when picking up flex howeve
 
 I’m using a PHP back end and all you need is a http service:
 
-{% highlight %}
+{% highlight xml %}
     <s:HTTPService id=”dataService”
     method=”POST”
     url=”{phpFile}”

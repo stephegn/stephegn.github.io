@@ -19,3 +19,4 @@ github_username:  stephegn
 
 # Build settings
 markdown: kramdown
+permalink: /:slug

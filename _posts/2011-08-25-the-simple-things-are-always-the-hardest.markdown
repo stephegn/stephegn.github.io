@@ -8,7 +8,9 @@ categories: mysql
 We have recently added ‘history’ to our application which is great!
 I display this as a list of items and dates and we only show the user the last 15 items. I got this working with some simple SQL:
 
+{% highlight sql %}
     SELECT * FROM history WHERE user = username ORDER BY time DESC LIMIT 15
+{% endhighlight %}
 
 Then I looked at it, the items you use a lot were duplicated so all I wanted to do was get rid of these. Simple! I hear you say. Not so…
 
@@ -27,9 +29,10 @@ Useful links I found:
 __UPDATE
 __
 My wonderful coding partner has done it, he is a genius!
-
+{% highlight sql %}
     SELECT filename,MAX(time) AS lastDownloadTime FROM history
     WHERE username = 'name'
     GROUP BY filename
     ORDER BY lastDownLoadTime DESC
     LIMIT 15
+{% endhighlight %}
