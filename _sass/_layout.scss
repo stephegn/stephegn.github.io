@@ -20,7 +20,13 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $white-color;
+    }
+    &:hover {
+      text-decoration: none;
+      color: $brand-color-dark;
+
+
     }
 }
 

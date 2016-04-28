@@ -7,11 +7,11 @@
 
 # Site settings
 title: Steph's Bubble
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a Software Engineer working at The BBC.
+  I graduated from The University of Manchester with a Bsc in Computer Science WIE.
+  I am currently working with Java but have worked with PHP and Wordpress for 3 years
+  and have spoken at a WordCamp in Manchester.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stephegn.github.io" # the base hostname & protocol for your site
 twitter_username: stephegn

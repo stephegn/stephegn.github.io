@@ -9,7 +9,7 @@ OK, my android development kinda didn’t really get going so I’m having anoth
 
 *New issues and new problems*
 
-##Installing:
+## Installing:
 
 Great tutorial on how to install the current version of eclipse on ubuntu:
 
