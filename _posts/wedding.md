@@ -1,4 +1,4 @@
----layout: posttitle:  "Steph & Shane's Wedding"date:   2016-04-28 12:37:00 +0100categories: thoughts---## Directions & Accommodation
+---layout: posttitle:  "Steph & Shane's Wedding"date:   2015-06-28 12:37:00 +0000categories: thoughts---## Directions & Accommodation
 Use the map below to find near by accommodation and directions.
 
 Nearby hotels are coloured in orange.
