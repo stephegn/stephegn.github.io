@@ -1,0 +1,7 @@
+---layout: posttitle:  "Steph & Shane's Wedding"date:   2015-06-28 12:37:00 +0000categories: thoughts---## Directions & Accommodation
+Use the map below to find near by accommodation and directions.
+
+Nearby hotels are coloured in orange.
+Click the expand button in the top right to open the map in a new tab.<iframe src="https://www.google.com/maps/d/embed?mid=zrlNe9xdmN_k.kZid0a1UC8Is" width="640" height="480"></iframe>
+
+## GiftsIf you would like to buy us a gift you can find our wedding list online at [http://www.wishlistr.com/stephcook22](http://www.wishlistr.com/stephcook22) alternatively will we be going on a Honeymoon later in the year and contributions would be greatly appreciated.
