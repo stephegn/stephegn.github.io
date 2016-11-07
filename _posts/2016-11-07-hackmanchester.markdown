@@ -16,7 +16,7 @@ How we organised ourselves has changed a lot over the years, this year was infac
 
 One important goal we have learnt over the years is to get something working ASAP. This is so important, and really helped us gain momentum. Coupled with continuous deployment (which we set up at the same time) we could charge ahead with everything else.
 
-![Kanban](http://www.playbyplay.io/wp-content/uploads/2016/10/IMG_6536-1024x682.jpg)
+<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/IMG_6536-1024x682.jpg" width="500px;"/>
 
 
 ## The codebase
@@ -29,7 +29,7 @@ Another big discision we made early on was to keep it simple. We ignored the fea
 
 By not having a fully fleshed out idea we were able to come up with great ideas on the fly and just add them in. We managed to get a working game up in very little time so from then on it was all just adding in the fun bits, power ups, sound effects, even vibrations! The only problem we did have with this was that when the judges came round initially we couldnt really give them an idea of what everything was going to turn into.
 
-![Planning lobbies](http://www.playbyplay.io/wp-content/uploads/2016/10/DSC_1828-1024x683.jpg)
+<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/DSC_1828-1024x683.jpg" width="500px;"/>
 
 
 ## M60 Mayhem
