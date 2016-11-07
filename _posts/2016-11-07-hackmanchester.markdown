@@ -12,11 +12,12 @@ Since this year was a bit of a change of tact and it was so successful, I though
 
 ## Organisation and planning
 
+
+<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/IMG_6536-1024x682.jpg" width="500px;" style="{float:right;}"/>
 How we organised ourselves has changed a lot over the years, this year was infact the least planned, we only had a vauge idea of what we wanted to create - a racing game, with multiplayer, probably over websockets. Organisation on the day however was probably the best yet, we had regular catch ups to add postits and switched what we were working on frequently. I think the all Javascript codebase (server and clients) really helped with this, allowing us to all work on everything easily and not have to context switch too much. A real kanban board made a difference too, even if we did have to run back after forgetting the postits, it was worth it.
 
 One important goal we have learnt over the years is to get something working ASAP. This is so important, and really helped us gain momentum. Coupled with continuous deployment (which we set up at the same time) we could charge ahead with everything else.
 
-<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/IMG_6536-1024x682.jpg" width="500px;"/>
 
 
 ## The codebase
@@ -25,11 +26,10 @@ I've already mentioned the all Javascript [codebase](https://github.com/QasAshra
 
 ## Choosing what is fun
 
+<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/DSC_1828-1024x683.jpg" width="500px;"/>
 Another big discision we made early on was to keep it simple. We ignored the features (which were calling to us) that didnt really add much value. One the big ones for us was lobbies. It's a multiplayer game, of course it needs lobbies to be a reality but really all this would have done is added a huge amount of complexity for no real benefit. Working on a proof of concept which works in your set of conditions is what it's all about, you only have 24(5) hours! Maybe one day we will go back and add lobbies so multiple sessions can happen at once, maybe.
 
 By not having a fully fleshed out idea we were able to come up with great ideas on the fly and just add them in. We managed to get a working game up in very little time so from then on it was all just adding in the fun bits, power ups, sound effects, even vibrations! The only problem we did have with this was that when the judges came round initially we couldnt really give them an idea of what everything was going to turn into.
-
-<img src="http://www.playbyplay.io/wp-content/uploads/2016/10/DSC_1828-1024x683.jpg" width="500px;"/>
 
 
 ## M60 Mayhem
