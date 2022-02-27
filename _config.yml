@@ -8,10 +8,8 @@
 # Site settings
 title: Steph's Bubble
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Software Engineer working at The BBC.
+  I'm a Principal Software Engineer working at The BBC and am working to improve Continuous Delivery practices within iPlayer and Sounds.
   I graduated from The University of Manchester with a Bsc in Computer Science WIE.
-  I am currently working with Java but have worked with PHP and Wordpress for 3 years
-  and have spoken at a WordCamp in Manchester.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stephegn.github.io" # the base hostname & protocol for your site
 twitter_username: stephegn
